@@ -12,7 +12,7 @@ Además, el sistema incluye una planificación básica que permite definir los p
 
 * Martin Andrés Díaz González
 * Mosiah Kolob Patricio Estrada Meneses
-
+* Diego Andres Diaz Hernandez
 ## Funcionalidades
 
 * Consulta de información desde documentos internos.
